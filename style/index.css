@@ -2,9 +2,14 @@
 
 body {
     background-color: rgba(40, 40, 43, 1);
-    height: auto;
-    width: auto;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    
+
 }
+
+
 
 h1 {
     font-family: 'Staatliches', cursive;
